@@ -1,11 +1,15 @@
 {
-  "private": true,
+  "name": "backbone-todo-mvc",
+  "version": "0.0.1",
   "dependencies": {
     "backbone": "^1.1.2",
     "backbone.localstorage": "^1.1.16",
     "jquery": "^2.1.3",
     "todomvc-app-css": "^2.0.0",
     "todomvc-common": "^1.0.1",
-    "underscore": "^1.7.0"
+    "underscore": "^1.7.0",
+    "express": "2.5.0",
+    "coffee-script": "1.1.3",
+    "restler": "0.2.1"
   }
 }
